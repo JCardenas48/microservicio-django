@@ -1,6 +1,5 @@
 from django.urls import path
 from django.urls import path
-from django.urls.resolvers import URLPattern
 from .views import PQRListCreate, PQRUpdateDelete, PersonaSoporteListCreate, PersonaSoporteUpdateDelete
 
 URLPattern = {
