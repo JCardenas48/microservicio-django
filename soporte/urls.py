@@ -1,5 +1,4 @@
 from django.urls import path
-from django.urls import path
 from .views import PQRListCreate, PQRUpdateDelete, PersonaSoporteListCreate, PersonaSoporteUpdateDelete
 
 URLPattern = {
